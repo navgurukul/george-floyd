@@ -23,6 +23,13 @@ Backend : https://github.com/navgurukul/chanakya #HapiJs #NodeJS
 
 Frontend : https://github.com/navgurukul/kalam #React
 
+# Kadam - Student Onboarding Platform
+Hosted at : http://kadam.navgurukul.org
+
+Backend : https://github.com/navgurukul/kamla-bhasin
+
+Frontend : https://github.com/navgurukul/bhanwari-devi
+
 # Bol - communications platform
 Hosted At : http://bol.navgurukul.org
 
